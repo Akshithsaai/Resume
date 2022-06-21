@@ -1,0 +1,71 @@
+body {
+    margin: 0px;
+    display: inline;
+    font-size: smaller;
+    background-color: black;
+}
+
+p.obj {
+    display: inline;
+    font-family: calibri;
+    font-size:medium;
+}
+
+.container {
+    max-width: 600px;
+    background-color: rgb(233, 233, 233);
+    margin: 40px auto 0px;
+    padding: 40px;
+}
+
+.header {
+    margin-bottom: 30px;
+}
+
+.full-name {
+    font-size: larger;
+    font-family: Comic sans MS;
+}
+
+hr.hr-1 {
+    height: 3px;
+    border: 0px;
+    color: red;
+    background-color: red;
+}
+
+hr.hr-2 {
+    height: 1px;
+    border-top-width: 1.5px;
+    border-bottom-width: 1.5px;
+    border-color: black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+
+hr.hr-3 {
+    height: 1px;
+    border-top-width: 1.5px;
+    border-bottom-width: 1.5px;
+    border-color: black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+
+/* hr.hr-4{
+    display: inline-block;
+    height: 4px;
+    border: none;
+    background-color: rgb(226, 225, 225);
+} */
+.Phone-info {
+    float:right;
+}
+
+div.hr-2 {
+    margin-top: 0px;
+    background-color: rgb(244, 244, 244);
+}
+
